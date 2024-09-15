@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Yichen 👋
+
+⚡ Curious coder exploring the intersection of math and tech \
+🏫 Studying Math and Computer Science at the University of Chicago \
+👩🏻‍💻 Working on [Poker Primer](https://www.pokerprimer.net/), a website for beginner poker players featuring interactive drills and tools \
+🎮 Exploring computer graphics by building a [raytracer](https://github.com/yichending01/raytracer) from scratch \
+🌱 Currently learning about data analytics and AI models
 
 <!--
 **yichending01/yichending01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
